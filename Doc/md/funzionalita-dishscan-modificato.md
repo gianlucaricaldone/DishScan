@@ -1,6 +1,6 @@
 # Funzionalità DishScan - Documento di Progetto
 
-## Pacchetto Base (4,99€/mese)
+## Pacchetto Free
 
 ### Funzionalità Esistenti
 - Creazione di un singolo menu digitale personalizzabile
@@ -13,18 +13,13 @@
 
 ### Funzionalità Aggiuntive Approvate
 - Opzione per aggiungere un piccolo logo del ristorante
-- Personalizzazione colori base dell'interfaccia
-- Funzione "Piatto del giorno" in evidenza
-- Possibilità di indicare i piatti vegani/vegetariani
-- Condivisione menu sui social media
 
-## Pacchetto Premium (9,99€/mese)
+## Pacchetto Premium (9,99€/mese) - Valore reale: 24,99€
 
 ### Funzionalità Esistenti
-- Tutto il pacchetto base
+- Tutto il pacchetto Free
 - Creazione e gestione di menu multipli (es. eventi speciali, serate a tema)
 - Possibilità di alternare i menu visibili in base alle necessità
-- Gestione inventario automatizzata
 - Supporto per menu stagionali e rotazioni automatiche
 - Design avanzato con temi multipli
 - Foto HD dei piatti
@@ -34,6 +29,11 @@
 - Supporto prioritario
 
 ### Funzionalità Aggiuntive Confermate
+- **Calendarizzazione dei menù**: pianificazione automatica dei menu con date di attivazione e disattivazione
 - **Formato a scelta**: possibilità di visualizzare il menu sia in formato PDF che in stile app interattiva
 - **Template grafici**: scelta tra diversi template grafici professionali
 - **Carta dei vini avanzata**: con possibilità di barrare automaticamente vini senza giacenza
+- **Personalizzazione colori base dell'interfaccia**: opzioni avanzate per adattare il design all'identità del ristorante
+- **Funzione "Piatto del giorno" in evidenza**: per promuovere speciali giornalieri in modo dinamico
+- **Possibilità di indicare i piatti vegani/vegetariani**: filtri avanzati per preferenze alimentari
+- **Condivisione menu sui social media**: integrazione con piattaforme social per maggiore visibilità
